@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PurvCode26
-- 👀 I’m interested in Software Engineering and Data Science
+- 👀 I’m interested in Software Engineering and Architecture
 - 🌱 I’m currently learning Full stack development and Cloud technologies
 - 💞️ I’m looking to collaborate on Full stack Projects
 - 📫 How to reach me: You can reach me via email at purvp42@gmail.com.
